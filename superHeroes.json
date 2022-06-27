@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Black Widow",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342920/labeled_images/Black%20Widow/2_j1ubfb.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Black%20Widow/1_af1iim.jpg"
+  },
+  {
+    "name": "Captain America",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342920/labeled_images/Captain%20America/2_qft7wz.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Captain%20America/1_zahtnj.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Captain%20Marvel/2_deq2cm.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Captain%20Marvel/1_ykmscy.jpg"
+  },
+  {
+    "name": "Hawkeye",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Hawkeye/1_t4ae4y.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Hawkeye/2_so9hhu.jpg"
+  },
+  {
+    "name": "Jim Rhodes",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Jim%20Rhodes/1_a2ygly.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Jim%20Rhodes/2_mpi0i5.jpg"
+  },
+  {
+    "name": "Thor",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342920/labeled_images/Thor/2_vqa3e4.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342920/labeled_images/Thor/1_c3yrwv.jpg"
+  },
+  {
+    "name": "Tony Stark",
+    "imguri1": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Tony%20Stark/1_ouqmxx.jpg",
+    "imguri2": "https://res.cloudinary.com/vicflores11/image/upload/v1656342919/labeled_images/Tony%20Stark/2_bhezkg.jpg"
+  }
+]
